@@ -149,7 +149,6 @@ The application follows a modern cloud-native architecture:
 The application uses AWS Cognito for secure authentication:
 - User registration with email verification
 - Role-based access control (Tenant/Manager)
-- JWT token-based session management
 - Secure password policies
 
 ## 📊 Database Schema
