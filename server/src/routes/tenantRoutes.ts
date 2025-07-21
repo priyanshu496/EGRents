@@ -6,7 +6,7 @@ import {
   getCurrentResidences,
   addFavoriteProperty,
   removeFavoriteProperty,
-} from "../controllers/tenantController";
+} from "../controllers/tenantControllers";
 
 const router = express.Router();
 
